@@ -1199,3 +1199,15 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+/*--------------------------------------------------------------
+# Portfolio
+--------------------------------------------------------------*/
+.services .portfolio-wrap p {
+  color: #ffff
+} 
+
+.services .portfolio-wrap .img-fluid img{
+    max-width: 100%;
+    height: auto;
+}
